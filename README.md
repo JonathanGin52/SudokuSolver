@@ -6,6 +6,10 @@ Puzzles are inputted as a string with a length of n^2.
 * For numbers greater than 9, use capital letters.
   * 10 = A, 11 = B, 12 = C ... 34 = Y, 35 = Z
 
+### Example inputs
+4x4 puzzle example
+> 0130200000030210
+
 9x9 puzzle example
 > 010020300004005060070000008006900070000100002030048000500006040000800106008000000
 
