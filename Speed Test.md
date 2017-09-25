@@ -8,7 +8,7 @@ Total Time: 676772 milliseconds
 Puzzles solved: 10018
 Average Time: 67 milliseconds
 Slowest Time: 4979 milliseconds
-Fastest Time: To fast to measure in milliseconds
+Fastest Time: Too fast to measure in milliseconds
 ```
 
 ## September 19, 2017
